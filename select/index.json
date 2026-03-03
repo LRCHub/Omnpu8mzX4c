@@ -1,0 +1,264 @@
+{
+  "version": 1,
+  "base_track": "Give Me the Night",
+  "base_artist": "George Benson",
+  "createdAt": "2026-03-03T09:19:35.779481Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Give Me The Night",
+      "artist": "BWO",
+      "has_synced": false,
+      "path": "select/01_Give_Me_The_Night_BWO.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Give Me The Night",
+      "artist": "Beachcrimes",
+      "has_synced": true,
+      "path": "select/02_Give_Me_The_Night_Beachcrimes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Give me the night",
+      "artist": "Alixo",
+      "has_synced": true,
+      "path": "select/03_Give_me_the_night_Alixo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Give Me the Night",
+      "artist": "George Benson",
+      "has_synced": true,
+      "path": "select/04_Give_Me_the_Night_George_Benson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Give Me The Night",
+      "artist": "George Benson",
+      "has_synced": true,
+      "path": "select/05_Give_Me_The_Night_George_Benson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Give Me the Night",
+      "artist": "George Benson",
+      "has_synced": false,
+      "path": "select/06_Give_Me_the_Night_George_Benson.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Give Me The Night",
+      "artist": "Smoma",
+      "has_synced": true,
+      "path": "select/07_Give_Me_The_Night_Smoma.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Give Me the Night",
+      "artist": "George Benson",
+      "has_synced": true,
+      "path": "select/08_Give_Me_the_Night_George_Benson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Give Me the Night (acoustic)",
+      "artist": "Beachcrimes",
+      "has_synced": true,
+      "path": "select/09_Give_Me_the_Night_(acoustic)_Beachcrimes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Give Me The Night",
+      "artist": "René Froger",
+      "has_synced": true,
+      "path": "select/10_Give_Me_The_Night_René_Froger.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Give Me The Night",
+      "artist": "DragonForce",
+      "has_synced": true,
+      "path": "select/11_Give_Me_The_Night_DragonForce.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Give Me the Night",
+      "artist": "George Benson",
+      "has_synced": true,
+      "path": "select/12_Give_Me_the_Night_George_Benson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Give Me The Night",
+      "artist": "George Benson",
+      "has_synced": true,
+      "path": "select/13_Give_Me_The_Night_George_Benson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Give Me the Night",
+      "artist": "Randy Crawford",
+      "has_synced": false,
+      "path": "select/14_Give_Me_the_Night_Randy_Crawford.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Give Me the Night",
+      "artist": "George Benson",
+      "has_synced": true,
+      "path": "select/15_Give_Me_the_Night_George_Benson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Give Me the Reason",
+      "artist": "Luther Vandross",
+      "has_synced": true,
+      "path": "select/16_Give_Me_the_Reason_Luther_Vandross.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "give me The ground",
+      "artist": "Mura Masa",
+      "has_synced": true,
+      "path": "select/17_give_me_The_ground_Mura_Masa.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Give Me the Keys (and I'll Drive You Crazy)",
+      "artist": "Huey Lewis and The News",
+      "has_synced": true,
+      "path": "select/18_Give_Me_the_Keys_(and_I'll_Drive_You_Crazy)_Huey_Lewis_and_The_News.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Give Me The Wonder",
+      "artist": "Johnny Clegg",
+      "has_synced": false,
+      "path": "select/19_Give_Me_The_Wonder_Johnny_Clegg.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "If You Give Me the Love I Want",
+      "artist": "Crydajam",
+      "has_synced": false,
+      "path": "select/20_If_You_Give_Me_the_Love_I_Want_Crydajam.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Give Me the Word",
+      "artist": "Survivor",
+      "has_synced": false,
+      "path": "select/21_Give_Me_the_Word_Survivor.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Give Me the Cure",
+      "artist": "Fugazi",
+      "has_synced": false,
+      "path": "select/22_Give_Me_the_Cure_Fugazi.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Give Me the Cure",
+      "artist": "Fugazi",
+      "has_synced": true,
+      "path": "select/23_Give_Me_the_Cure_Fugazi.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Give Me the Right",
+      "artist": "Elvis Presley",
+      "has_synced": false,
+      "path": "select/24_Give_Me_the_Right_Elvis_Presley.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Give Me The Right",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/25_Give_Me_The_Right_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Give Me The Reason",
+      "artist": "James Bay",
+      "has_synced": true,
+      "path": "select/26_Give_Me_The_Reason_James_Bay.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Give Me The Reason",
+      "artist": "James Bay",
+      "has_synced": false,
+      "path": "select/27_Give_Me_The_Reason_James_Bay.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Give Me The Night",
+      "artist": "George Benson",
+      "has_synced": true,
+      "path": "select/28_Give_Me_The_Night_George_Benson.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Give Me The Future",
+      "artist": "Bastille",
+      "has_synced": true,
+      "path": "select/29_Give_Me_The_Future_Bastille.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Give Me The Night - Live",
+      "artist": "George Benson",
+      "has_synced": false,
+      "path": "select/30_Give_Me_The_Night_-_Live_George_Benson.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Give Me The Night  (Live)",
+      "artist": "George Benson",
+      "has_synced": false,
+      "path": "select/31_Give_Me_The_Night_(Live)_George_Benson.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Give Me The Night",
+      "artist": "George Benson",
+      "has_synced": false,
+      "path": "select/pl_01_Give_Me_The_Night_George_Benson.txt"
+    }
+  ]
+}
